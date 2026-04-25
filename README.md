@@ -1,11 +1,14 @@
 # CeProAgents
 
+[![Website](https://img.shields.io/badge/Website-Live_Demo-success)](http://47.245.86.118/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10-green)](https://www.python.org/)
 [![Aspen Plus](https://img.shields.io/badge/Aspen-V14-orange)](https://www.aspentech.com/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-yellow)](TODO)
 
 This repository contains the official implementation and benchmark for **CeProAgents** and **CeProBench**.
+
+✨ **Live Demo / Official Website:** [http://47.245.86.118/](http://47.245.86.118/)
 
 * [📖 Introduction](#-introduction)
 * [🛠️ Environment Setup](#️-environment-setup)
